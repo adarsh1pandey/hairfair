@@ -1,5 +1,5 @@
-John's Barber:
-A web application designed for a small family owned barber shop located in Centreville, Va.
+Hair Fair:
+A web application designed for people all over India
 The website displays what services are provided and information about the buisiness. 
 
 In the works:
